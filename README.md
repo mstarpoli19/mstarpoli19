@@ -2,7 +2,7 @@
 
 Mechanical engineering · AI evaluation · software and automation
 
-I build practical tools and small applications, with a focus on clear requirements, testable behavior, and useful documentation. I’m especially interested in the work between building something and proving it behaves as intended.
+I’m a mechanical engineer interested in reliable software and AI evaluation. I build tools for checking code, automating routine work, and making results easier to review.
 
 ## Selected work
 
@@ -19,7 +19,5 @@ A storefront prototype built with HTML, CSS, vanilla JavaScript, and Node.js. Fe
 ## Current interests
 
 Reliable AI evaluation, repository validation, developer tools, engineering software, and automation that makes everyday work easier.
-
-New portfolio projects may use AI-assisted development; scope, provenance, and limitations are documented in each repository.
 
 [LinkedIn](https://www.linkedin.com/in/michaelstarpoli/)
